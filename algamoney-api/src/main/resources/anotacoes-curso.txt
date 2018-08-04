@@ -1,0 +1,5 @@
+#Criar o projeto
+	File > New > Spring Starter Project
+	
+#mvnw
+	Maven embarcado para não precisar instalar
